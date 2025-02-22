@@ -2,7 +2,7 @@
 
 export default function CompOne() {
   return (
-    <div className="grid grid-cols-3  justify-between w-full cols-span-1 md:h-[15%] h-[20%] gap-x-2">
+    <div className="grid grid-cols-3  justify-between w-full cols-span-1 md:h-[20%] h-[20%] gap-x-2">
 
     <div className=" items-center text-foreground bg-card shadow-card/40 h-full justify-center gap-1 flex flex-col p-2 md:p-5 rounded-3xl shadow-md ">
       <span>Up to</span>
