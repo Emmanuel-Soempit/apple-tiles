@@ -4,7 +4,7 @@ import CompFour from "./components/comp-four";
 
 export default function MiddleSection() {
   return (
-    <div className=" justify-start gap-[7%] md:px-5 flex flex-col w-[60%]  md:max-h-screen min-h-screen">
+    <div className="flex flex-col justify-between lg:justify-start gap-[4%] w-full lg:w-[60%] lg:px-4 lg:max-h-screen h-screen min-h-screen">
     <CompOne/>
     <CompThree/>
     <CompFour/>

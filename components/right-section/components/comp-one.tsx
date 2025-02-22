@@ -1,6 +1,6 @@
 export default function CompOne() {
   return (
-    <div className="flex h-[15%] justify-between flex-row-reverse">
+    <div className="flex lg:h-[15%] justify-between flex-row-reverse">
       <div className="w-[60%] flex-col  items-center text-foreground bg-card shadow-card/40 justify-center text-md font-bold gap-3 flex p-5 rounded-[25px] shadow-md ">
       <img
           className="w-full h-[70%] object-cover"

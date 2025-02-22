@@ -1,9 +1,9 @@
 export default function CompThree() {
   return (
-    <div className="w-full text-foreground bg-card shadow-card/40  overflow-hidden items-center md:h-[40%] h-[20%] justify-center text-xl font-bold flex border rounded-[25px] shadow-md ">
+    <div className="flex  lg:justify-between w-full h-[50%] lg:h-[40%] border rounded-3xl overflow-hidden  min-h-fit lg:gap-2  gap-4">
       <img
-        className="object-cover h-full w-full"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2KEWKLi9xT849a34DzoWTqphnaEnxENyqQ&usqp=CAU"
+        className="object-contain md:object-cover h-full w-full"
+        src="lappy.png"
         alt=""
       />
     </div>

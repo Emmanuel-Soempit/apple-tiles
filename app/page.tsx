@@ -4,7 +4,7 @@ import RightSection from "@/components/right-section/right-section";
 
 export default function Home() {
   return (
-    <div className="flex flex-col  md:flex-row text-black  p-5 w-screen md:max-h-screen  min-h-screen overscroll-y-auto l">
+    <div className="flex flex-col gap-5 lg:gap-0 lg:flex-row text-black  p-5 w-screen lg:max-h-screen   overscroll-y-auto ">
       <LeftSection />
 
       <MiddleSection />
