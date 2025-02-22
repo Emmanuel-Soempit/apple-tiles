@@ -5,7 +5,7 @@ export default function CompFour() {
        
       <img
         className="object-cover h-full w-full"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jRWAjLq-UV3OMIg4VNBDj78hPtpoupwhpf9lWbLyqtlR3OTccZAu6cw&s=10"
+        src="faceid.png"
         alt=""
       />
       </div>
@@ -13,12 +13,12 @@ export default function CompFour() {
       <div className="w-full col-span-2 flex  items-center text-foreground bg-card shadow-card/40  h-full justify-center gap-5 p-5 b rounded-2xl  ">
       <img
         className="object-cover h-full w-[40%]"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWikf1vTUXGZnLRMfTtQukWZDa9vDy-FEdQ&usqp=CAU"
+        src="ultra.png"
         alt=""
       />
       <img
         className="object-cover h-full w-[40%]"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWikf1vTUXGZnLRMfTtQukWZDa9vDy-FEdQ&usqp=CAU"
+        src="ultra.png"
         alt=""
       />
       </div>

@@ -2,9 +2,9 @@
 
 export default function CompOne() {
   return (
-    <div className="w-full h-[15%] items-center bg-card text-foreground  shadow-card/40 justify-center text-xl font-bold gap-3 flex p-5 rounded-[25px] shadow-md ">
+    <div className="w-full h-[15%] text-center text-2xl items-center bg-card text-foreground  shadow-card/40 justify-center font-bold gap-1 flex p-5 rounded-[25px] shadow-md ">
        <span>Up to</span>
-       <img  className="h-[50px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfH0X8sDE34eLamcv7BAl_S8H9_W188UxallIdm_4_FBckdYgZ5edLsmk&s" alt="" />
+       <img  className="h-[100px] pb-4" src="battery.png" alt="" />
        <span>battery life</span>
     </div>
   );
